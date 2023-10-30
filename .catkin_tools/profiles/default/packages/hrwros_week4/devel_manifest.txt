@@ -1,0 +1,5 @@
+hrwros_week4
+/home/swathi/hrwros_ws/devel/.private/hrwros_week4/cmake.lock /home/swathi/hrwros_ws/devel/./cmake.lock
+/home/swathi/hrwros_ws/devel/.private/hrwros_week4/share/hrwros_week4/cmake/hrwros_week4Config.cmake /home/swathi/hrwros_ws/devel/share/hrwros_week4/cmake/hrwros_week4Config.cmake
+/home/swathi/hrwros_ws/devel/.private/hrwros_week4/share/hrwros_week4/cmake/hrwros_week4Config-version.cmake /home/swathi/hrwros_ws/devel/share/hrwros_week4/cmake/hrwros_week4Config-version.cmake
+/home/swathi/hrwros_ws/devel/.private/hrwros_week4/lib/pkgconfig/hrwros_week4.pc /home/swathi/hrwros_ws/devel/lib/pkgconfig/hrwros_week4.pc

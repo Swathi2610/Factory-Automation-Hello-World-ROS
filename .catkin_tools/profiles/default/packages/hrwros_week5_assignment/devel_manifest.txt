@@ -1,0 +1,5 @@
+hrwros_assignments/hrwros_week5_assignment
+/home/swathi/hrwros_ws/devel/.private/hrwros_week5_assignment/cmake.lock /home/swathi/hrwros_ws/devel/./cmake.lock
+/home/swathi/hrwros_ws/devel/.private/hrwros_week5_assignment/share/hrwros_week5_assignment/cmake/hrwros_week5_assignmentConfig.cmake /home/swathi/hrwros_ws/devel/share/hrwros_week5_assignment/cmake/hrwros_week5_assignmentConfig.cmake
+/home/swathi/hrwros_ws/devel/.private/hrwros_week5_assignment/share/hrwros_week5_assignment/cmake/hrwros_week5_assignmentConfig-version.cmake /home/swathi/hrwros_ws/devel/share/hrwros_week5_assignment/cmake/hrwros_week5_assignmentConfig-version.cmake
+/home/swathi/hrwros_ws/devel/.private/hrwros_week5_assignment/lib/pkgconfig/hrwros_week5_assignment.pc /home/swathi/hrwros_ws/devel/lib/pkgconfig/hrwros_week5_assignment.pc
